@@ -1,0 +1,16 @@
+C:\Users\Asus\Documents\Arqui_de_software\CreationalPattern_Example\bin\Debug\net5.0\CreationalPattern_Example.exe
+C:\Users\Asus\Documents\Arqui_de_software\CreationalPattern_Example\bin\Debug\net5.0\CreationalPattern_Example.deps.json
+C:\Users\Asus\Documents\Arqui_de_software\CreationalPattern_Example\bin\Debug\net5.0\CreationalPattern_Example.runtimeconfig.json
+C:\Users\Asus\Documents\Arqui_de_software\CreationalPattern_Example\bin\Debug\net5.0\CreationalPattern_Example.runtimeconfig.dev.json
+C:\Users\Asus\Documents\Arqui_de_software\CreationalPattern_Example\bin\Debug\net5.0\CreationalPattern_Example.dll
+C:\Users\Asus\Documents\Arqui_de_software\CreationalPattern_Example\bin\Debug\net5.0\ref\CreationalPattern_Example.dll
+C:\Users\Asus\Documents\Arqui_de_software\CreationalPattern_Example\bin\Debug\net5.0\CreationalPattern_Example.pdb
+C:\Users\Asus\Documents\Arqui_de_software\CreationalPattern_Example\obj\Debug\net5.0\CreationalPattern_Example.csprojAssemblyReference.cache
+C:\Users\Asus\Documents\Arqui_de_software\CreationalPattern_Example\obj\Debug\net5.0\CreationalPattern_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\Arqui_de_software\CreationalPattern_Example\obj\Debug\net5.0\CreationalPattern_Example.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\Arqui_de_software\CreationalPattern_Example\obj\Debug\net5.0\CreationalPattern_Example.AssemblyInfo.cs
+C:\Users\Asus\Documents\Arqui_de_software\CreationalPattern_Example\obj\Debug\net5.0\CreationalPattern_Example.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Arqui_de_software\CreationalPattern_Example\obj\Debug\net5.0\CreationalPattern_Example.dll
+C:\Users\Asus\Documents\Arqui_de_software\CreationalPattern_Example\obj\Debug\net5.0\ref\CreationalPattern_Example.dll
+C:\Users\Asus\Documents\Arqui_de_software\CreationalPattern_Example\obj\Debug\net5.0\CreationalPattern_Example.pdb
+C:\Users\Asus\Documents\Arqui_de_software\CreationalPattern_Example\obj\Debug\net5.0\CreationalPattern_Example.genruntimeconfig.cache

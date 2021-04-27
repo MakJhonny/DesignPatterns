@@ -1,0 +1,1 @@
+#### Los 3 patrones usan el mismo repositorio, cada carpeta de cada patrón tiene el readme, los diagramas y el código 'Example'
