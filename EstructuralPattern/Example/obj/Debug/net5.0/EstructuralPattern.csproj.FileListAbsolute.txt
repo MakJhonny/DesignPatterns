@@ -1,0 +1,16 @@
+C:\Users\Asus\Documents\Arqui_de_software\Patrones de diseño\EstructuralPattern\bin\Debug\net5.0\EstructuralPattern.exe
+C:\Users\Asus\Documents\Arqui_de_software\Patrones de diseño\EstructuralPattern\bin\Debug\net5.0\EstructuralPattern.deps.json
+C:\Users\Asus\Documents\Arqui_de_software\Patrones de diseño\EstructuralPattern\bin\Debug\net5.0\EstructuralPattern.runtimeconfig.json
+C:\Users\Asus\Documents\Arqui_de_software\Patrones de diseño\EstructuralPattern\bin\Debug\net5.0\EstructuralPattern.runtimeconfig.dev.json
+C:\Users\Asus\Documents\Arqui_de_software\Patrones de diseño\EstructuralPattern\bin\Debug\net5.0\EstructuralPattern.dll
+C:\Users\Asus\Documents\Arqui_de_software\Patrones de diseño\EstructuralPattern\bin\Debug\net5.0\ref\EstructuralPattern.dll
+C:\Users\Asus\Documents\Arqui_de_software\Patrones de diseño\EstructuralPattern\bin\Debug\net5.0\EstructuralPattern.pdb
+C:\Users\Asus\Documents\Arqui_de_software\Patrones de diseño\EstructuralPattern\obj\Debug\net5.0\EstructuralPattern.csprojAssemblyReference.cache
+C:\Users\Asus\Documents\Arqui_de_software\Patrones de diseño\EstructuralPattern\obj\Debug\net5.0\EstructuralPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\Arqui_de_software\Patrones de diseño\EstructuralPattern\obj\Debug\net5.0\EstructuralPattern.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\Arqui_de_software\Patrones de diseño\EstructuralPattern\obj\Debug\net5.0\EstructuralPattern.AssemblyInfo.cs
+C:\Users\Asus\Documents\Arqui_de_software\Patrones de diseño\EstructuralPattern\obj\Debug\net5.0\EstructuralPattern.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Arqui_de_software\Patrones de diseño\EstructuralPattern\obj\Debug\net5.0\EstructuralPattern.dll
+C:\Users\Asus\Documents\Arqui_de_software\Patrones de diseño\EstructuralPattern\obj\Debug\net5.0\ref\EstructuralPattern.dll
+C:\Users\Asus\Documents\Arqui_de_software\Patrones de diseño\EstructuralPattern\obj\Debug\net5.0\EstructuralPattern.pdb
+C:\Users\Asus\Documents\Arqui_de_software\Patrones de diseño\EstructuralPattern\obj\Debug\net5.0\EstructuralPattern.genruntimeconfig.cache
