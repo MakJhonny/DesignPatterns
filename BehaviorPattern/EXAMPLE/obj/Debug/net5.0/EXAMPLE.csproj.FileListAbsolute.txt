@@ -1,0 +1,16 @@
+C:\Users\Asus\Documents\Arqui_de_software\Patrones de diseño\BehaviorPattern\EXAMPLE\bin\Debug\net5.0\EXAMPLE.exe
+C:\Users\Asus\Documents\Arqui_de_software\Patrones de diseño\BehaviorPattern\EXAMPLE\bin\Debug\net5.0\EXAMPLE.deps.json
+C:\Users\Asus\Documents\Arqui_de_software\Patrones de diseño\BehaviorPattern\EXAMPLE\bin\Debug\net5.0\EXAMPLE.runtimeconfig.json
+C:\Users\Asus\Documents\Arqui_de_software\Patrones de diseño\BehaviorPattern\EXAMPLE\bin\Debug\net5.0\EXAMPLE.runtimeconfig.dev.json
+C:\Users\Asus\Documents\Arqui_de_software\Patrones de diseño\BehaviorPattern\EXAMPLE\bin\Debug\net5.0\EXAMPLE.dll
+C:\Users\Asus\Documents\Arqui_de_software\Patrones de diseño\BehaviorPattern\EXAMPLE\bin\Debug\net5.0\ref\EXAMPLE.dll
+C:\Users\Asus\Documents\Arqui_de_software\Patrones de diseño\BehaviorPattern\EXAMPLE\bin\Debug\net5.0\EXAMPLE.pdb
+C:\Users\Asus\Documents\Arqui_de_software\Patrones de diseño\BehaviorPattern\EXAMPLE\obj\Debug\net5.0\EXAMPLE.csprojAssemblyReference.cache
+C:\Users\Asus\Documents\Arqui_de_software\Patrones de diseño\BehaviorPattern\EXAMPLE\obj\Debug\net5.0\EXAMPLE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\Arqui_de_software\Patrones de diseño\BehaviorPattern\EXAMPLE\obj\Debug\net5.0\EXAMPLE.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\Arqui_de_software\Patrones de diseño\BehaviorPattern\EXAMPLE\obj\Debug\net5.0\EXAMPLE.AssemblyInfo.cs
+C:\Users\Asus\Documents\Arqui_de_software\Patrones de diseño\BehaviorPattern\EXAMPLE\obj\Debug\net5.0\EXAMPLE.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Arqui_de_software\Patrones de diseño\BehaviorPattern\EXAMPLE\obj\Debug\net5.0\EXAMPLE.dll
+C:\Users\Asus\Documents\Arqui_de_software\Patrones de diseño\BehaviorPattern\EXAMPLE\obj\Debug\net5.0\ref\EXAMPLE.dll
+C:\Users\Asus\Documents\Arqui_de_software\Patrones de diseño\BehaviorPattern\EXAMPLE\obj\Debug\net5.0\EXAMPLE.pdb
+C:\Users\Asus\Documents\Arqui_de_software\Patrones de diseño\BehaviorPattern\EXAMPLE\obj\Debug\net5.0\EXAMPLE.genruntimeconfig.cache
